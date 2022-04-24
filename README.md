@@ -42,7 +42,7 @@ This is an example that shows you how the game looks like. In this scene you can
 
 This was my first time creating a melee combat system.
 
-The melee system works as expected. I had to confront with the many problems that a good melee system usually brings. I had to fix many different bugs, the system works but it's not perfect, sometimes (I would say rarely tho) they hits may miss the target.
+The melee system works as expected. I had to confront with the many problems that a good melee system usually brings. I had to fix many different bugs, the system works but it's not perfect, sometimes (I would say rarely tho) the hits may miss the target.
 
 The mentioned problem can be fixed in different ways, but because I had no time when I did the project, I didn't totally fixed it.
 

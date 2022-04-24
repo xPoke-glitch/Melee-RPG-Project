@@ -38,6 +38,22 @@ This is an example that shows you how the game looks like. In this scene you can
 
 <img src="https://github.com/xPoke-glitch/MeleeRPGProject/blob/main/Screenshots/gameplay.gif" width="750">
 
+## Test notes
+
+This was my first time creating a melee combat system.
+
+The melee system works as expected. I had to confront with the many problems that a good melee system usually brings. I had to fix many different bugs, the system works but it's not perfect, sometimes (I would say rarely tho) they hits may miss the target.
+
+The mentioned problem can be fixed in different ways, but because of I had no time when I did the project, I didn't totally fixed it.
+
+Last thing that I don't really like is the trail effect. I tried to do it all by myself with particles, although I could have used a trail renderer component.
+
+The enemy AI can be improved, but it is a test project so I didn't want to dive too deep into it.
+
+Generally, I love the environment, the models and also how the melee system works.
+
+Finally, in this project, I experimented a little with the Cinemachine camera zoom, as you can see from the commands.
+
 ## Team
 
 **Developers**:

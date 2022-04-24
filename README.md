@@ -44,7 +44,7 @@ This was my first time creating a melee combat system.
 
 The melee system works as expected. I had to confront with the many problems that a good melee system usually brings. I had to fix many different bugs, the system works but it's not perfect, sometimes (I would say rarely tho) they hits may miss the target.
 
-The mentioned problem can be fixed in different ways, but because of I had no time when I did the project, I didn't totally fixed it.
+The mentioned problem can be fixed in different ways, but because I had no time when I did the project, I didn't totally fixed it.
 
 Last thing that I don't really like is the trail effect. I tried to do it all by myself with particles, although I could have used a trail renderer component.
 
